@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94908652067",
+    "project_id": "manaustour-76a2e",
+    "storage_bucket": "manaustour-76a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94908652067:android:fd3d04e5b4f7e4c7abef96",
+        "android_client_info": {
+          "package_name": "com.example.manaustour2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2d13tMHiZqYgSMpv-3SaIy6_O_oka7eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
